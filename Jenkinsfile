@@ -67,7 +67,7 @@ pipeline {
          stage('Run docker image')
         {
             steps{
-                    bat 'docker run -p 14259:80 --name %ContainerName% %Username%/%RemoteImage%'
+                    bat 'docker run  -d -p 14259:80 --name %ContainerName% %Username%/%RemoteImage%'
             }
         }
     }
