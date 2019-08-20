@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\webapi\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\BasicWebApi\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\webapi\\webapi.csproj",
+      "projectPath": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\BasicWebApi\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\vitripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\vitripathi\\Desktop\\projects\\webapi\\BasicWebApi\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
